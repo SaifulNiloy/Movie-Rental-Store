@@ -107,3 +107,5 @@ G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.csproj.
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.csproj.CopyComplete
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.dll
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.pdb
+G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.InitialModel.resources
+G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.csproj.GenerateResource.cache
