@@ -116,3 +116,4 @@ G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrati
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.removeNameFromMembershipType.resources
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.AddNameToMembershipType.resources
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.SetNameOfMembershipTypes.resources
+G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.AddBirthdateToCustomer.resources
