@@ -109,3 +109,4 @@ G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.dll
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.pdb
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.InitialModel.resources
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.csproj.GenerateResource.cache
+G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.AddIsSubscribedToCustomer.resources
