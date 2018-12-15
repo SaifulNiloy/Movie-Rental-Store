@@ -1,6 +1,7 @@
 ﻿using MovieRentalStore.Models;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -24,7 +25,7 @@ namespace MovieRentalStore.Controllers
         // GET: Customers
         public ActionResult Index()
         {
-            var customers = _context.Customers.ToList();
+            var customers = _context.Customers.Include(c => c.MembershipType).ToList();
             return View(customers);
         }
 
