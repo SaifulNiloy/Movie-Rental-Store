@@ -111,3 +111,4 @@ G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrati
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.csproj.GenerateResource.cache
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.AddIsSubscribedToCustomer.resources
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.AddMembershipType.resources
+G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.PopulateMembershipTypes.resources
