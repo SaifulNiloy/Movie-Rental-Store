@@ -33,6 +33,12 @@ namespace MovieRentalStore.Controllers
             return View(viewModel);
         }
 
+        [HttpPost]
+        public ActionResult Create(NewCustomerViewModel viewModel)
+        {
+            return View();
+        }
+
         // GET: Customers
         public ActionResult Index()
         {
