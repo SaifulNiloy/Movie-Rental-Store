@@ -1,4 +1,4 @@
-﻿@model MovieRentalStore.ViewModels.NewCustomerViewModel
+﻿@model MovieRentalStore.ViewModels.CustomerFormViewModel
 
 @{
     ViewBag.Title = "New";
@@ -17,7 +17,7 @@
     <div class="form-group">
         @Html.LabelFor(m => m.Customer.Birthdate)
         @*<label for="Birthdate">Date of Birth</label>*@
-        @Html.TextBoxFor(m => m.Customer.Birthdate, new { @class = "form-control" })
+        @Html.TextBoxFor(m => m.Customer.Birthdate, "{0:d MMM yyyy}", new { @class = "form-control" })
     </div>
 
     @*<div class="form-group">
@@ -25,16 +25,16 @@
             @Html.CheckBoxFor(m => m.IsSubscribedToNewsletter, new { @class = "form-control" })
         </div>*@
 
-    <div class="checkbox">
-        <label>
-            @Html.CheckBoxFor(m => m.Customer.IsSubscribedToNewsletter) Subscribed To Newsletter?
-        </label>
-    </div>
-
     <div class="form-group">
         @Html.LabelFor(m => m.Customer.MembershipTypeId)
         @*<label for="Birthdate">Date of Birth</label>*@
         @Html.DropDownListFor(m => m.Customer.MembershipTypeId, new SelectList(Model.MembershipTypes, "Id", "Name"), "Select Membership Type", new { @class = "form-control" })
+    </div>
+
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(m => m.Customer.IsSubscribedToNewsletter) Subscribed To Newsletter?
+        </label>
     </div>
 
     <Button type="submit" class="btn btn-primary">Save</Button>
