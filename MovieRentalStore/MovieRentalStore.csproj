@@ -225,6 +225,10 @@
     <Compile Include="Migrations\201901021132379_MovieForm.Designer.cs">
       <DependentUpon>201901021132379_MovieForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201901040208329_MagicNumbers.cs" />
+    <Compile Include="Migrations\201901040208329_MagicNumbers.Designer.cs">
+      <DependentUpon>201901040208329_MagicNumbers.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -355,6 +359,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201901021132379_MovieForm.resx">
       <DependentUpon>201901021132379_MovieForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201901040208329_MagicNumbers.resx">
+      <DependentUpon>201901040208329_MagicNumbers.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
