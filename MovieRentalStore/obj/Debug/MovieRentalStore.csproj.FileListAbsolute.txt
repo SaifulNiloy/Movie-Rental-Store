@@ -120,3 +120,9 @@ G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrati
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.AddMovie.resources
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.MovieForm.resources
 G:\Projects\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.Migrations.MagicNumbers.resources
+G:\Projects\MovieRentalStore\MovieRentalStore\bin\System.Net.Http.Formatting.dll
+G:\Projects\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.dll
+G:\Projects\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.WebHost.dll
+G:\Projects\MovieRentalStore\MovieRentalStore\bin\System.Net.Http.Formatting.xml
+G:\Projects\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.xml
+G:\Projects\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.WebHost.xml
