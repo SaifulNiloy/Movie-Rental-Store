@@ -126,3 +126,5 @@ G:\Projects\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.WebHost.dll
 G:\Projects\MovieRentalStore\MovieRentalStore\bin\System.Net.Http.Formatting.xml
 G:\Projects\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.xml
 G:\Projects\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.WebHost.xml
+G:\Projects\MovieRentalStore\MovieRentalStore\bin\AutoMapper.dll
+G:\Projects\MovieRentalStore\MovieRentalStore\bin\AutoMapper.xml
